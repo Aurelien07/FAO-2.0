@@ -12,3 +12,13 @@ Pour ce projet, on va tenter de faire un top des marques en fonction de plusieur
 Nous utiliserons donc du NLP pour détecter les additifs ainsi que le BIO/Organic.
 
 Nous utiliserons une api pour détecter si le produit est sain ou non en fonction de la moyenne des produits de ce type.
+
+
+Pour le choix de l'API en cours ce sera :
+
+- Open Food Facts API
+- Nutritionix API
+- USDA Food Composition Databases API
+- Edamam API
+
+  
